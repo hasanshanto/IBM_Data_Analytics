@@ -1,0 +1,85 @@
+Week 1:
+Modern Data Ecosystem and the role of Data Analytics:
+Practice Quiz 1:
+
+1. Question 1
+Which emerging technology has made it possible for every enterprise to have access to limitless storage and high-performance computing?
+
+A. Big Data
+B. Internet of Things
+C. Machine learning
+D. Cloud computing 
+
+ANS: D. Cloud Computing
+
+2. Question 2
+Which of the data roles is responsible for extracting, integrating, and organizing data into data repositories?
+
+A. Business Intelligence Analyst
+B. Data Engineer
+C. Data Analyst
+D. Data Scientist
+
+ANS: B. Data Engineer
+
+3. Question 3
+When you analyze historical data to predict future outcomes what type of Data Analytics are you performing?
+
+A. Predictive Analytics
+B. Descriptive Analytics
+C. Diagnostic Analytics
+D. Prescriptive Analytics
+
+ANS: A. Predictive Analytics
+
+Graded Quiz 1:
+
+1. Question 1
+A modern data ecosystem includes a network of continually evolving entities. It includes: 
+
+A. Data providers, databases, and programming languages 
+B. Data sources, enterprise data repository, business stakeholders, and tools, applications, and infrastructure to manage data 
+C. Data sources, databases, and programming languages 
+D. Social media sources, data repositories, and APIs 
+
+ANS: B. Data sources, enterprise data repository, business stakeholders, and tools, applications, and infrastructure to manage data 
+
+2. Question 2
+Data Analysts work within the data ecosystem to:
+
+A. Gather, clean, mine, and analyze data for deriving insights 
+B. Develop and maintain data architectures 
+C. Provide business intelligence solutions by monitoring data on different business functions 
+D. Build Machine Learning or Deep Learning models 
+
+ANS: A. Gather, clean, mine, and analyze data for deriving insights 
+
+3. Question 3
+When we analyze data in order to understand why an event took place, which of the four types of data analytics are we performing?
+
+A. Predictive Analysis
+B. Diagnostic Analysis
+C. Descriptive Analysis
+D. Prescriptive Analysis
+
+ANS: B. Diagnostic Analysis
+
+4. Question 4
+The first step in the data analysis process is to gain an in-depth understanding of the problem and the desired outcome. What are you seeking answers to at this stage of the data analysis process?
+
+A. The data you need 
+B. Where you are and where you need to be
+C. What will be measured and how it will be measured
+D. The best tools for sourcing data
+
+ANS: B. Where you are and where you need to be
+
+5. Question 5
+From the provided list, select the three emerging technologies that are shaping today’s data ecosystem. 
+
+A. Cloud Computing, Internet of Things, and Dashboarding 
+B. Cloud Computing, Machine Learning, and Big Data 
+C. Big Data, Internet of Things, and Dashboarding 
+D. Machine Language, Cloud Computing, and Internet of Things 
+
+ANS: B. Cloud Computing, Machine Learning, and Big Data 
