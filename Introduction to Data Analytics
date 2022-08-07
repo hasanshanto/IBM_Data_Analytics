@@ -266,3 +266,129 @@ D. Unix/Linux Shell
 
 ANS: B. Python
 
+Practice Quiz 2:
+
+
+1. Question 1
+Structured Query Language, or SQL, is the standard querying language for what type of data repository?
+
+A. NoSQL 
+B. RDBMS
+C. Flat Files
+D. Data lake 
+
+ANS: B. RDBMS
+
+2. Question 2
+In use cases for RDBMS, what is one of the reasons that relational databases are so well suited for OLTP applications?
+
+A. Allow you to make changes in the database even while a query is being executed 
+B. Offer easy backup and restore options 
+C. Support the ability to insert, update, or delete small amounts of data  
+D. Minimize data redundancy 
+
+ANS: C. Support the ability to insert, update, or delete small amounts of data  
+
+3. Question 3
+Which NoSQL database type stores each record and its associated data within a single document and also works well with Analytics platforms?
+
+A. Key-value store  
+B. Graph-based
+C. Column-based 
+D. Document-based 
+
+ANS: D. Document-based 
+
+4. Question 4
+What type of data repository is used to isolate a subset of data for a particular business function, purpose, or community of users?
+
+A. Data Pipeline
+B. Data Mart
+C. Data Lake
+D. Data Warehouse
+
+ANS: B. Data Mart
+
+5. Question 5
+What does the attribute “Velocity” imply in the context of Big Data?
+
+A. The speed at which data accumulates 
+B. Quality and origin of data 
+C. Scale of data 
+D. Diversity of data 
+
+ANS:  A. The speed at which data accumulates 
+
+6. Question 6
+Which of the Big Data processing tools provides distributed storage and processing of Big Data? 
+
+A. Hive
+B. Hadoop
+C. ETL
+D. Spark
+
+ANS: B. Hadoop
+
+Graded Quiz 2:
+
+1. Question 1
+Data Marts and Data Warehouses have typically been relational, but the emergence of what technology has helped to let these be used for non-relational data?
+
+A. ETL
+B. NoSQL
+C. Data Lake
+D. SQL
+
+ANS: B. NoSQL
+
+2. Question 2
+What is one of the most significant advantages of an RDBMS? 
+
+A. Enforces a limit on the length of data fields
+B. Is ACID-Compliant 
+C. Requires source and destination tables to be identical for migrating data 
+D. Can store only structured data  
+
+ANS: B. Is ACID-Compliant 
+
+3. Question 3
+Which one of the NoSQL database types uses a graphical model to represent and store data, and is particularly useful for visualizing, analyzing, and finding connections between different pieces of data? 
+
+A. Column-based 
+B. Document-based
+C. Key value store  
+D. Graph-based
+
+ANS: D. Graph-based
+
+4. Question 4
+Which of the data repositories serves as a pool of raw data and stores large amounts of structured, semi-structured, and unstructured data in their native formats?   
+
+A. Data Lakes
+B. Data Marts
+C. Data Warehouses
+D. Relational Databases
+
+ANS: A. Data Lakes
+
+5. Question 5
+What does the attribute “Veracity” imply in the context of Big Data?
+
+A. Diversity of the type and sources of data 
+B. Scale of data
+C. Accuracy and conformity of data to facts
+D. The speed at which data accumulates
+
+ANS: C. Accuracy and conformity of data to facts
+
+6. Question 6
+Apache Spark is a general-purpose data processing engine designed to extract and process Big Data for a wide range of applications. What is one of its key use cases?
+
+A. Scalable and reliable Big Data storage
+B. Consolidate data across the organization
+C. Fast recovery from hardware failures   
+D. Perform complex analytics in real-time 
+
+ANS: D. Perform complex analytics in real-time 
+
+
