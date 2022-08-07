@@ -160,3 +160,109 @@ D. Age and education details of complainants
 
 ANS: A, C
 
+Week 2:
+The Data Ecosystems and Lagnguage for Data Professionals:
+Practice Quiz 1:
+
+1. Question 1
+What data type is typically found in databases and spreadsheets?
+
+A. Social media content
+B. Semi-structured data
+C. Structured data
+D. Unstructured data
+
+ANS: C. Structured data
+
+2. Question 2
+Which of these data sources is an example of semi-structured data?
+
+A. Social media feeds
+B. Documents 
+C. Network and web logs
+D. Emails
+
+ANS: D. Emails
+
+3. Question 3
+Which one of the provided file formats is commonly used by APIs and Web Services to return data?  
+
+A. Delimited file 
+B. JSON  
+C. XML 
+D. XLS
+
+ANS: B. JSON 
+
+4. Question 4
+What is one example of the relational databases discussed in the video?
+
+A. Flat files 
+B. SQL Server 
+C. XML
+D. Spreadsheet 
+
+ANS: B. SQL Server 
+
+5. Question 5
+Which of the following languages is one of the most popular querying languages in use today?
+
+A. R
+B. Java
+C. Python
+D. SQL
+
+ANS: D. SQL
+
+Graded Quiz 1:
+
+1. Question 1
+In the data analyst’s ecosystem, languages are classified by type. What are shell and scripting languages most commonly used for? 
+
+A. Manipulating data 
+B. Building apps 
+C. Automating repetitive operational tasks
+D. Querying data 
+
+ANS: C. Automating repetitive operational tasks
+
+2. Question 2
+Which of the following is an example of unstructured data?   
+
+A. XML
+B. Spreadsheets
+C. Video and audio files
+D. Zipped files 
+
+ANS: C. Video and audio files
+
+3. Question 3
+Which one of these file formats is independent of software, hardware, and operating systems, and can be viewed the same way on any device? 
+
+A. XML
+B. XLSX
+C. Delimited text file
+D. PDF
+
+ANS: D. PDF
+
+4. Question 4
+Which data source can return data in plain text, XML, HTML, or JSON among others? 
+
+A. XML  
+B. Delimited text file 
+C. API
+D. PDF 
+
+ANS: D. PDF 
+
+5. Question 5
+According to the video “Languages for Data Professionals,” which of the programming languages supports multiple programming paradigms, such as object-oriented, imperative, functional, and procedural, making it suitable for a wide variety of use cases?  
+
+A. PowerShell 
+B. Python
+C. Java  
+D. Unix/Linux Shell 
+
+ANS: B. Python
+
