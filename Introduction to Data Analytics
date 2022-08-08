@@ -391,4 +391,87 @@ D. Perform complex analytics in real-time
 
 ANS: D. Perform complex analytics in real-time 
 
+Week 3:
+Practice Quiz 1:
 
+1. Question 1
+What are the requirements in order for data to be reliable? (Select all that apply)  
+
+A. Data should be structured
+B. Data should be relevant 
+C. Data should be free of all errors   
+D. Data should be easy to collect   
+
+ANS: B. Data should be relevant, C. Data should be free of all errors 
+
+2. Question 2
+What type of data is produced by wearable devices, smart buildings, and medical devices?  
+
+A. Observation study data
+B. Survey data
+C. Sensor data
+D. Census data
+
+ANS: C. Sensor data
+
+3. Question 3
+What type of data is semi-structured and has some organizational properties but not a rigid schema?
+
+A. Online forms   
+B. Data from OLTP systems
+C. Emails
+D. Web logs
+
+ANS: C. Emails
+
+Graded quiz 1:
+
+1. Question 1
+What are some of the steps in the process of “Identifying Data”? (Select all that apply)  
+
+A. Define a plan for collecting data 
+B. Define the checkpoints 
+C. Determine the visualization tools that you will use
+D. Determine the information you want to collect   
+
+ANS: A. Define a plan for collecting data, D. Determine the information you want to collect 
+
+2. Question 2
+What type of data refers to information obtained directly from the source? 
+
+A. Third-party data   
+B. Primary data   
+C. Sensor data   
+D. Secondary data  
+
+ANS: B. Primary data   
+
+3. Question 3
+Web scraping is used to extract what type of data? 
+
+A. Images, videos, and data from NoSQL databases 
+B. Data from news sites and NoSQL databases 
+C. Text, videos, and images 
+D. Text, videos, and data from relational databases 
+
+ANS: B. Data from news sites and NoSQL databases 
+
+4. Question 4
+Data obtained from an organization’s internal CRM, HR, and workflow applications is classified as:
+
+A. Copyright-free data 
+B. Secondary data 
+C. Primary data 
+D. Third-party data 
+
+ANS: C. Primary data 
+
+5. Question 5
+Which of the provided options offers simple commands to specify what is to be retrieved from a relational database?
+
+A. Web Scraping 
+B. API 
+C. RSS Feed 
+D. SQL 
+
+ANS: D. SQL 
