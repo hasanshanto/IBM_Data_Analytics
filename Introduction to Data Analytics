@@ -475,3 +475,87 @@ C. RSS Feed
 D. SQL 
 
 ANS: D. SQL 
+
+Practice Quiz 2:
+
+1. Question 1
+What is one of the common structural transformations used for combining data from one or more tables? 
+
+A. Cleaning
+B. Joins 
+C. Normalization 
+D. Denormalization
+
+ANS: B. Joins 
+
+2. Question 2
+What tool allows you to discover, cleanse, and transform data with built-in operations?
+
+A. Watson Studio Refinery
+B. OpenRefine
+C. Google DataPrep
+D. Trifacta Wrangler
+
+ANS: A. Watson Studio Refinery
+
+3. Question 3
+What is data called that does not fit within the context of the use case?  
+
+A. Missing data 
+B. Irrelevant data 
+C. Relevant data
+D. Duplicate data 
+
+ANS: B. Irrelevant data 
+
+Graded Quiz 2:
+
+1. Question 1
+What does a typical data wrangling workflow include? 
+
+A. Validating the quality of the transformed data 
+B. Using mathematical techniques to identify correlations in data 
+C. Recognizing patterns 
+D. Predicting probabilities 
+
+ANS: A. Validating the quality of the transformed data 
+
+2. Question 2
+OpenRefine is an open-source tool that allows you to:  
+
+A. Enforces applicable data governance policies automatically 
+B. Transform data into a variety of formats such as TSV, CSV, XLS, XML, and JSON 
+C. Automatically detect schemas, data types, and anomalies 
+D. Use add-ins such as Microsoft Power Query to identify issues and clean data 
+
+ANS: B. Transform data into a variety of formats such as TSV, CSV, XLS, XML, and JSON 
+
+3.Question 3
+What is one of the steps in a typical data cleaning workflow? 
+
+A. Inspecting data to detect issues and errors 
+B. Building classification models  
+C. Clustering data 
+D. Establishing relationships between data events  
+
+ANS: A. Inspecting data to detect issues and errors 
+
+4. Question 4
+When you’re combining rows of data from multiple source tables into a single table, what kind of data transformation are you performing? 
+
+A. Joins 
+B. Denormalization 
+C. Normalization 
+D. Unions 
+
+ANS: D. Unions 
+
+5. Question 5
+When you detect a value in your data set that is vastly different from other observations in the same data set, what would you report that as? 
+
+A. Irrelevant data 
+B. Syntax error 
+C. Outlier 
+D. Missing value 
+
+ANS: A. Irrelevant data 
