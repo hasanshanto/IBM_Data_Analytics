@@ -559,3 +559,88 @@ C. Outlier
 D. Missing value 
 
 ANS: A. Irrelevant data 
+
+Week 4:
+Practice quiz 1:
+
+1. Question 1
+What is one of the common measures of Central Tendency? 
+
+A. Classification 
+B. Mean 
+C. Regression 
+D. Variance  
+
+ANS: B. Mean 
+
+2. Question 2
+What technique is used to help identify the nature of the relationship between two variables? 
+
+A. Clustering
+B. Regression
+C. Classification
+D. Anomaly Detection
+
+ANS: B. Regression
+
+3. Question 3
+What Python libraries are commonly used for data mining?  
+
+A. Pandas
+B. NumPy
+C. Tm
+D. twitter
+
+ANS: A. Pandas B. NumPy
+
+Graded Quiz 1:
+
+1. Question 1
+What is a branch of mathematics dealing with the collection, analysis, interpretation, and presentation of numerical or quantitative data?
+
+A. Calculus
+B. Pie 
+C. Statistics
+D. Algebra
+
+ANS: C. Statistics
+
+2. Question 2
+Data Mining is defined as the process of:
+
+A. Preparing raw data for analysis
+B. Identifying errors in data 
+C. Extracting knowledge from data
+D. Filtering data based on pre-defined criteria
+
+ANS: C. Extracting knowledge from data
+
+3. Question 3
+What type of data mining operations was R specifically built to handle? 
+
+A. Classification of data 
+B. Sorting 
+C. Calculating mean, median, and mode 
+D. Filtering 
+
+ANS: A. Classification of data 
+
+4. Question 4
+When you’re calculating the middle value of a data field in a data set, what are you really calculating? 
+
+A. Mode
+B. Mean
+C. Median 
+D. Average
+
+ANS: C. Median  
+
+5. Question 5
+What is the general tendency of a set of data to change over time called?
+
+A. Trend 
+B. Anomaly 
+C. Variation 
+D. Pattern 
+
+ANS: A. Trend 
