@@ -1,0 +1,30 @@
+Ques 1: List at least 5 (five) data points that are required for the analysis and detection of a credit card fraud. (3 marks)
+
+ANS: For the analysis and detection of credit card fraud, several data points can be helpful. below are 5 of them.
+1. IP Address 
+2. Shipping Address 
+3. Transaction Date
+4. Transaction value
+5. Unites Purchase
+
+Ques 2: Refer to the data table below and identify 3 (three) errors/issues that could impact the accuracy of your findings. (3 marks)
+
+ANS: Referring to the table there are several errors/issues which may hamper the accuracy of my findings. 3 are listed below
+a. missing IP Adress
+b. missing transaction values
+c. inconsistent date format
+
+Ques 3: Refer to the data table below and identify 2 (two) anomalies or unexpected behaviors, that would lead you to believe the transaction may be suspect. (2 marks)
+
+ANS: From the table here are two (2) anomalies which lead me to believe the transaction may be suspect
+a. shipping address of user ID johnp changed from 1542, Orchid Lane, WA 98706, US to in-store.
+b. sudden purchase of a laptop by user ellend from using different IP Address and different shipping address.
+
+Ques 4: Briefly explain your key take-away from the provided data visualization chart. (1 mark)
+
+ANS: Here is a visualization table presented from the referring table. the user davidg's transaction and shopping trend seem normal, while the user johnp and ellend's transactions seem to be fine till the first 2 transactions. But there are abnormalities in both of the user's shopping habits and transaction value from the third transaction. 
+
+Ques 5: Identify the type of analysis that you are performing when you are analyzing historical credit card data to understand what a fraudulent transaction looks like. 
+Hint: The four types of Analytics include: Descriptive, Diagnostic, Predictive, Prescriptive. (1 mark)
+
+ANS: When I am identifying historical credit card data to understand what a fraudulent transaction looks like I am actually performing Descriptive analysis which describes what happened actually. 
