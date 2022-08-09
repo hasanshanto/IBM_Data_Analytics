@@ -644,3 +644,81 @@ C. Variation
 D. Pattern 
 
 ANS: A. Trend 
+
+Practice Quiz 2:
+
+1. Question 1
+Data visualizations such as graphs and charts are a great way to bring data to life. 
+
+A. True
+B. False
+
+ANS: True
+
+2. Question 2
+You can use dashboards to present operational data such as daily progress data, as well as analytical data, such as the overall health of a business function.  
+
+A. True
+B. False
+
+ANS: True
+
+3. Question 3
+What spreadsheet software is preferred when multiple users need to collaborate?
+
+A. Tableau
+B. Microsoft Excel 
+C. R-Studio
+D. Google Sheets
+
+ANS: D. Google Sheets
+
+Graded Quiz 2:
+
+1. Question 1
+"A presentation is not a data dump”. What is the one thing you would do to ensure your presentation is not a data dump?
+
+A. Include only that information as is needed to address the business problem
+B. Not include facts and figures in the presentation
+C. Deliver the findings in a single slide
+D. Not use visuals in the presentation
+
+ANS:  A. Include only that information as is needed to address the business problem
+
+2. Question 2
+What is the discipline of communicating information through the use of visual elements?  
+
+A. Data profiling   
+B. Data type conversion 
+C. Data regression 
+D. Data visualization 
+
+ANS: D. Data visualization 
+
+3. Question 3
+Matplotlib is a widely used Python data visualization library.
+
+A. True
+B. False
+
+ANS: A. True
+
+4. Question 4
+What is the goal of Data Visualization? 
+
+A. Make the presentation look attractive 
+B. Make information easy to comprehend, interpret, and retain 
+C. Establish trust in the audience 
+D. Make collaboration easy 
+
+ANS: B. Make information easy to comprehend, interpret, and retain 
+
+5. Question 5
+What can you do to help your audience trust you?
+
+A. Share your data sources, hypotheses, and validations 
+B. Hand them copies of the data sets you have used for analysis 
+C. Share the detailed documentation of every aspect of your project so they can verify all details 
+D. Make your presentation look good 
+
+ANS:  A. Share your data sources, hypotheses, and validations 
