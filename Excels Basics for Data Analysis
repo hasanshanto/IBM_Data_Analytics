@@ -262,3 +262,138 @@ C. shorten the text so it fits
 D. click the Format button 
 
 ANS: A. select all columns and double-click one of the selected column dividers 
+
+Week 3:
+Practice Quiz 2:
+
+1. Question 1
+According to the video, what's one of the easiest common errors or inconsistencies to fix when importing data?  
+
+A. Extra white space
+B. Spelling mistakes 
+C. Empty rows
+D. Duplicated data 
+
+ANS: B. Spelling mistakes
+
+2. Question 2
+What is the first thing you should do when checking spelling errors in Excel?  
+
+A. Click the Spelling button   
+B. Select the data you want to check for spelling   
+C. Find the misspelled data 
+D. Use a dictionary
+
+ANS: B. Select the data you want to check for spelling    
+
+3. Question 3
+What feature can you use to fix text that appears in mixed case? 
+
+A. AutoSum  
+B. Filter  
+C. Functions  
+D. Audits  
+
+ANS: C. Functions  
+
+4. Question 4
+What is one of the functions you can use to change the text case in your data?  
+
+A. CAP  
+B. LOWER  
+C. CASE  
+D. STRUCTURE 
+
+ANS: B. LOWER  
+
+5. Question 5
+What does the Flash Fill feature have in common with the UPPER, LOWER, and PROPER functions? 
+
+A. Repairs a REF error
+B. Lookup & Reference 
+C. Requires a helper column or row   
+D. Keeps cell formatting
+
+ANS: C. Requires a helper column or row 
+
+6. Question 6
+Which of the following tasks can Flash Fill do? Select all that apply.
+
+A. Set column width 
+B. Remove empty rows
+C. Split one column of data into two 
+D. Combine two columns of data into one
+
+ANS: C, D
+
+Graded Quiz 2:
+
+1. Question 1
+What is one of the issues that empty rows cause in your spreadsheet?
+
+A. Data will be hidden 
+B. Indexing function error 
+C. Spell-check will fail 
+D. Formula errors 
+
+ANS: D. Formula errors 
+
+2. Question 2
+How can you remove all empty rows at the same time in your imported spreadsheet?
+
+A. Select all rows and then filter for Blanks, select these and then delete 
+B. Use Search & Replace to look for empty rows and delete 
+C. You must delete the empty rows one at a time 
+D. Use Remove Duplicates to remove empty rows 
+
+ANS: A. Select all rows and then filter for Blanks, select these and then delete 
+
+3. Question 3
+There are two methods to locate and remove duplicated rows in Excel, what is the easiest way? 
+
+A. Select a column and choose Conditional Formatting > Highlight Cells Rules > Duplicate Values 
+B. Select all data and click the Remove Duplicates button 
+C. Use the HLOOKUP function 
+D. Search for the first character in rows 
+
+ANS: B. Select all data and click the Remove Duplicates button 
+
+4. Question 4
+What does the PROPER function do?
+
+A. Changes text to sentence case 
+B. Repairs a REF error 
+C. Converts lower case text to upper case 
+D. Converts upper case text to lower case 
+
+ANS: A. Changes text to sentence case  
+
+5. Question 5
+Why do you need to use the Paste Values option when you paste contents from a helper row to the original row?
+
+A. Ensures consistency 
+B. Validates the copied function 
+C. Keeps cell formatting the same 
+D. Makes sure formulas aren’t also copied 
+
+ANS: D. Makes sure formulas aren’t also copied 
+
+6. Question 6
+What is one of the ways to apply new data formats to the rest of a column? 
+
+A. Format Painter tool 
+B. Format button 
+C. Paste Special tool 
+D. Text Import wizard 
+
+ANS: A. Format Painter tool 
+
+7. Question 7
+What tools or features can we use to split a single column with two names in, into two separate columns with a name in each? Select all that apply
+
+A. Flash Fill feature 
+B. Paste Special 
+C. Format Painter tool 
+D. Text to Columns feature 
+
+ANS: A, D
