@@ -198,4 +198,67 @@ D. Formula contains unrecognized text
 
 ANS:  B. Column isn't wide enough or it contains negative date or time values 
 
+Week 3:
+Practice Quiz 1:
 
+1. Question 1
+What is the first and most significant part of data quality?
+
+A. Accuracy
+B. Reliability
+C. Completeness
+D. Relevance
+
+ANS: A. Accuracy
+
+2. Question 2
+Which data quality trait refers to the availability and accessibility of the data?
+
+A. Timeliness
+B. Completeness
+C. Accuracy
+D. Reliability  
+
+ANS: A. Timeliness
+
+3. Question 3
+What is a delimited file?  
+
+A. file with text qualifiers between data fields 
+B. file with no spaces between data fields   
+C. file with data fields separated by fixed-widths 
+D. file with data fields separated by characters like commas or tabs 
+
+ANS: D. file with data fields separated by characters like commas or tabs 
+
+Graded Quiz 1:
+
+1. Question 1
+Which data quality trait can be summarized by asking if the data is really necessary? 
+
+A. Timeliness 
+B. Reliability 
+C. Relevance 
+D. Completeness 
+
+ANS: C. Relevance 
+
+2. Question 2
+Which data quality trait refers to the availability and accessibility of the data?
+
+A. Accuracy 
+B. Timeliness 
+C. Completeness 
+D. Reliability 
+
+ANS: B. Timeliness 
+
+3. Question 3
+After importing a text file into Excel, you find some columns aren't showing all data. How can you fix all column widths at the same time?
+
+A. select all columns and double-click one of the selected column dividers 
+B. drag a divider across 
+C. shorten the text so it fits 
+D. click the Format button 
+
+ANS: A. select all columns and double-click one of the selected column dividers 
