@@ -397,3 +397,116 @@ C. Format Painter tool
 D. Text to Columns feature 
 
 ANS: A, D
+
+Week 4:
+Pracitce Quiz 1:
+
+1. Question 1
+Which of the following are valid sorting orders you can choose when adding sorting levels to your data? Select all that apply.
+
+A. Youngest to Oldest 
+B. Z to A
+C. Oldest to Newest
+D. Smallest to Largest
+
+ANS: B, C, D
+
+2. Question 2
+After filtering a column and getting the results, in which two ways can you return to showing all the data in a column? Select two answers. 
+
+A. refresh the column   
+B. clear the filter   
+C. turn filtering off
+D. refresh the worksheet  
+
+ANS: B, C
+
+3. Question 3
+What do custom filters provide that AutoFilters don't?
+
+A. set multiple filters at the same time   
+B. display more data   
+C. filter a column to see only above or below a certain value  
+D. associate a formula with the filter control   
+
+ANS: C. filter a column to see only above or below a certain value   
+
+4. Question 4
+According to the video 'Useful Functions for Data Analysis', what is one of the most common functions a Data Analyst might use?  
+
+A. Randbetween 
+B. Countif  
+C. Average  
+D. Int  
+
+ANS: C. Average  
+
+5. Question 5
+What does VLOOKUP stand for?  
+
+A. Virtual Lookup   
+B. Vertical Lookup   
+C. Variable Lookup   
+D. Volume Lookup  
+
+ANS: B. Vertical Lookup 
+
+Graded Quiz 1:
+
+1. Question 1
+If you have multiple filters set, how can you clear all of them at once?
+
+A. Refresh the column 
+B. You must clear each filter separately 
+C. Data tab > Sort & Filter group > Clear 
+D. Turn sorting off 
+
+ANS: C. Data tab > Sort & Filter group > Clear 
+
+2. Question 2
+After enabling Filtering, where can you see and access the filter controls?  
+
+A. Each column header now has a filter control 
+B. Each row has filter controls 
+C. Only selected cells have filter controls 
+D. You must manually select data for filtering 
+
+ANS: A. Each column header now has a filter control  
+
+3. Question 3
+The IF function applies to one or two conditions, but what if you need to apply multiple conditions?
+
+A. Use the IF-Then function 
+B. Use the IFor function 
+C. Use separate IF functions 
+D. Use the nesting capabilities of the IF function 
+
+ANS:  D. Use the nesting capabilities of the IF function 
+
+4. Question 4
+When you use nested functions, what is required for each of the functions?
+
+A. =IF to begin each function 
+B. Semi-colon between each function 
+C. Each function must be alphabetically ordered 
+D. A set of parentheses for each function 
+
+ANS:  D. A set of parentheses for each function 
+
+5. Question 5
+The difference between HLOOKUP, VLOOKUP, and XLOOKUP is how they look for data. How does each look for data?
+
+A. HLOOKUP = by column
+  VLOOKUP = by row
+  XLOOKUP = in all directions 
+B. HLOOKUP = by row
+  VLOOKUP = in all directions
+  XLOOKUP = by column 
+C. HLOOKUP = by row 
+  VLOOKUP = by column
+  XLOOKUP = all directions 
+D. HLOOKUP = in all directions 
+  VLOOKUP = by column
+  XLOOKUP = by row 
+
+ANS: A
