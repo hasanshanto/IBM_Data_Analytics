@@ -510,3 +510,97 @@ D. HLOOKUP = in all directions
   XLOOKUP = by row 
 
 ANS: A
+
+Practice Quiz 2:
+
+1. Question 1
+Before creating a pivot table, how should you format your data?  
+
+A. Cell size   
+B. Conditional formatting 
+C. Sort & filter 
+D. As a table
+
+ANS: D. As a table
+
+2. Question 2
+How can you add more filters to the pivot table?
+
+A. drag a field to the Filters area of the PivotTable Fields pane
+B. use a function
+C. use a formula
+D. first add filters to the original table data
+
+ANS: A. drag a field to the Filters area of the PivotTable Fields pane
+
+3. Question 3
+What must you do first before adding another slicer to a pivot table?
+
+A. add additional fields to the pivot table
+B. remove all current filters from the pivot table
+C. select a cell in the pivot table
+D. remove all existing slicers from the pivot table
+
+ANS: C. select a cell in the pivot table
+
+4. Question 4
+What do timelines provide in pivot tables?
+
+A. previews views of different filters
+B. sets the pivot table to an earlier view
+C. lets you filter specifically on date-related data
+D. provides details of all actions performed during a given period
+
+ANS: C. lets you filter specifically on date-related data
+
+Graded Quiz 2:
+
+1. Question 1
+According to the video checklist, what should you remove before making a Pivot Table?
+
+A. Blank rows, columns, and cells 
+B. Row labels 
+C. Value fields 
+D. Date fields 
+
+ANS: A. Blank rows, columns, and cells 
+
+2. Question 2
+What is automatically added after formatting data as a table?
+
+A. Data bars 
+B. Filter drop-downs at top of columns 
+C. Alternate light/dark rows 
+D. Column headers 
+
+ANS: B. Filter drop-downs at top of columns 
+
+3. Question 3
+After creating a pivot table and selecting it, what pane appears to the right of the pivot table? 
+
+A. Additional pivot table examples 
+B. The PivotTable Fields pane
+C. The PivotTable Properties pane 
+D. The PivotTable Metadata pane
+
+ANS: B. The PivotTable Fields pane
+
+4. Question 4
+What do Timelines provide in pivot tables?
+
+A. Provides details of all actions performed during a given period 
+B. Sets the pivot table to an earlier view
+C. Previews views of different filters
+D. Lets you filter specifically on date-related data 
+
+ANS:  D. Lets you filter specifically on date-related data 
+
+5. Question 5
+What is one way to remove a slicer or timeline?
+
+A. Press CTRL+Z 
+B. Right-click it and select cut 
+C. Remove all filters from pivot table 
+D. Create a new one 
+
+ANS: B. Right-click it and select cut 
