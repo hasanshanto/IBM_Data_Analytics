@@ -1,0 +1,115 @@
+Week 1:
+Practice Quiz 1:
+
+1. Question 1
+What is the difference between Bar and Column charts?
+
+A. The length of the bars 
+B. The width of the bars 
+C. One uses vertical bars, and one uses horizontal bars 
+D. The number of bars 
+
+ANS: C. One uses vertical bars, and one uses horizontal bars 
+
+2. Question 2
+Which chart uses nested rectangles?
+
+A. Sparklines 
+B. Treemaps 
+C. Scatter charts 
+D. Bubble charts 
+
+ANS: B. Treemaps 
+
+3. Question 3
+Which two charts typically have categories arranged on the horizontal axis and values on the vertical axis? 
+
+A. Column and line charts 
+B. Column and pie charts 
+C. Pie and bar charts 
+D. Pie and line charts 
+
+ANS: A. Column and line charts 
+
+4. Question 4
+When you add a filter to a pivot chart, how do you update the data in the original source pivot table?
+
+A. You do not need to do anything, as changes are immediately reflected in the pivot table data too 
+B. You need to manually add the filter to the pivot table in the PivotTable Fields pane  
+C. You need to refresh the pivot table worksheet to refresh the data 
+D. You need to click Refresh All in the Data group of the Analyze tab for the pivot table 
+
+ANS: A. You do not need to do anything, as changes are immediately reflected in the pivot table data too 
+
+Graded Quiz 1:
+
+1. Question 1
+What is a capability of line charts?
+
+A. Compare the frequency of data sets 
+B. Compare different, unrelated data sets 
+C. Compare different, but related data sets 
+D. Compare similar, unrelated data sets 
+
+ANS: C. Compare different, but related data sets 
+
+2. Question 2
+Each portion of a pie chart represents static values or categories. What is the sum of the categories equal to?  
+
+A. 50%
+B. 75%
+C. 99% 
+D. 100%
+
+ANS:  D. 100%
+
+3. Question 3
+According to the ‘Introduction to Charts’ video, which chart is one of the most commonly used?
+
+A. Bubble chart 
+B. Bar chart 
+C. Scatter chart 
+D. Funnel chart 
+
+ANS: B. Bar chart  
+
+4. Question 4
+In the ‘Expert Viewpoints: Using Visualizations to Tell a Data Story’ video, one expert mentioned two software programs that help highlight the important information. Which were the two software programs? 
+
+A. Db2 and SQL 
+B. PowerPoint and Excel 
+C. Google Docs and Word 
+D. Google and Bing 
+
+ANS: B. PowerPoint and Excel
+
+5. Question 5
+In the ‘Creating Basic Charts in Excel’ video, which type of chart shows the relative contribution of unit sales from Ford car models? 
+
+A. Pie chart 
+B. Bar chart 
+C. Line chart 
+D. Funnel chart 
+
+ANS:  A. Pie chart 
+
+6. Question 6
+How does a pivot chart differ from a standard chart in Excel? 
+
+A. A pivot chart contains data series, categories, and chart axes 
+B. A pivot chart cannot be a line, pie or bar chart 
+C. A pivot chart uses data from a pivot table 
+D. A pivot chart always has its data arranged in columns and rows 
+
+ANS: C. A pivot chart uses data from a pivot table  
+
+7. Question 7
+What is the main difference between Area and Column charts? 
+
+A. An area chart uses horizontal bars, and a column chart uses rows 
+B. A column chart uses vertical bars, and an area chart uses data points 
+C. A column chart uses data points, and an area chart uses vertical bars 
+D. An area chart makes sense of complicated data and a column chart shows chart axis like basic charts 
+
+ANS:  B. A column chart uses vertical bars, and an area chart uses data points 
+
