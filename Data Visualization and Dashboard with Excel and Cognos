@@ -113,3 +113,77 @@ D. An area chart makes sense of complicated data and a column chart shows chart 
 
 ANS:  B. A column chart uses vertical bars, and an area chart uses data points 
 
+Week 2:
+Practice Quiz 1:
+
+1. Question 1
+What are scatter charts commonly used for? 
+
+A. To compare sales, and inventory data values 
+B. To display distribution of data grouped into bins 
+C. To compare statistical, scientific, and engineering data values 
+D. To compare values across hierarchy levels 
+
+ANS: C. To compare statistical, scientific, and engineering data values 
+
+2. Question 2
+When you are creating a sparklines visualization, which two methods can you use to specify where the sparklines should appear on a worksheet? (Select two answers)
+
+A. Highlight the column, then right-click the intended cell location, and select Insert.
+B. Enter the cell reference in the Location Range box.
+C. Right-click the intended cell location, and select Paste.
+D. On the worksheet select a cell and Excel will add the cell reference to the Location Range box for you.
+
+ANS: B, D
+
+3. Question 3
+What's one data type intended for waterfall charts?
+
+A. Progressively decreasing proportions 
+B. Non-comparable categories 
+C. Stock performance data 
+D. Financial data 
+
+ANS: D. Financial data 
+
+Graded Quiz 1:
+
+1. Question 1
+What do treemaps use to represent hierarchical data categories? 
+
+A. Treemaps use interconnected circles.
+B. Treemaps use data points on a line.
+C. Treemaps use color, size, and closeness of shapes.
+D. Treemaps use different shapes.
+
+ANS: C. Treemaps use color, size, and closeness of shapes.
+
+2. Question 2
+Histograms can look like a bar chart, what’s the key difference? 
+
+A. Histograms use Axis Options to display different bin sizes.
+B. Bar charts compare data and histograms display the distribution of data.
+C. Histograms use bins.
+D. Bar charts use horizontal bars.
+
+ANS: B. Bar charts compare data and histograms display the distribution of data.
+
+3. Question 3
+What kind of data works best with filled map charts?  
+
+A. Data containing geographical regions 
+B. Complicated data 
+C. Scientific data 
+D. Raw data 
+
+ANS: A. Data containing geographical regions 
+
+4. Question 4
+What are sparklines typically used for?
+
+A. To show data trends.
+B. To contrast numerical values.
+C. To highlight a data range.
+D. To show regional information.
+
+ANS: A. To show data trends.
