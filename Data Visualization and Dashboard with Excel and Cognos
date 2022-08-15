@@ -187,3 +187,53 @@ C. To highlight a data range.
 D. To show regional information.
 
 ANS: A. To show data trends.
+
+Week 2:
+
+Practice Quiz 2:
+
+1. Question 1
+Which of the following applications would be considered an advanced data analysis and visualization application? (Select all that apply)
+
+A. Bokeh (in Python) 
+B. Excel (Full Desktop version) 
+C. Cognos Analytics 
+D. Google Sheets    
+E. Tableau 
+
+ANS: A, C, E
+
+2. Question 2
+According to the ‘Creating a Simple Dashboard using Excel’ video, which of the following should you have already done prior to creating a dashboard? (Select all that apply) 
+
+A. Created pivot tables to help analyze data.
+B. Created a data analysis findings report.
+C. Formatted the data as a table.
+D. Verified data is clean and error free.
+
+ANS: A, C, D
+
+Graded Quiz 2:
+
+1. Question 1
+Which of the following, do dashboards provide in a data analysis application? (Select all that apply)
+
+A. A consolidated view of business data.
+B. Key performance indicators (KPIs).
+C. A static data-findings report for your business data.
+D. A controllable self-service business intelligence (BI) interface.
+
+ANS: A, B, D
+
+2. Question 2
+According to the ‘Creating a Simple Dashboard using Excel’ video, what did subject matter experts advise when building dashboards?
+
+A. Bright colors highlight key points.
+B. Displaying too much information means your key points can get lost.
+C. Having as many visualizations as possible can help you clearly define your key points.
+D. Use numbers as much as possible to help focus users on your key points.
+
+ANS: B
+
+
+
