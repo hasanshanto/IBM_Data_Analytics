@@ -15,3 +15,11 @@ Key Takeway from this course: In this course I learned how to view, edit, enter 
 Certificate link: https://coursera.org/share/96f1989605f777fcd6767d6cd45a0f6c
 Badge link: https://www.credly.com/badges/a27cf0b3-5b6c-4922-8ba6-28761dd65123/public_url
 
+Course 3: Data Visualization and Dashboards with Excel and Cognos
+Status: Completed
+
+Key Takeway from this course: In this course I learned how to create a dynmaic dashboard using Microsoft Excel, in the prrocess of making dashboad I learned to create bar charts, line graphs, column charts, scatter plots, histograms, heatmaps, sunburst etc. I also learned to create appealing dashboard using IBM cognos. Using cognos I can creat a dynamic dashobard which may include calculated fields, KPIs, sorting, filtering, etc.
+
+Certificate link: https://coursera.org/share/0658c1edbbd4763f99c8e8f174965611
+Badge link: https://www.credly.com/badges/6a12a2e5-07d0-4f02-aa11-427fc3138f6d/public_url
+
