@@ -235,5 +235,91 @@ D. Use numbers as much as possible to help focus users on your key points.
 
 ANS: B
 
+Week 3:
+
+Practice Quiz 1:
+
+1. Question 1
+Which URL do you navigate to, in order to sign up for a trial of Cognos Analytics?
+
+A. IBM.COM/TRIAL_COGNOS 
+B. IBM.BIZ/TRY_COGNOS 
+C. IBM.COM/TRY_COGNOS 
+D. IBM.BIZ/COGNOS_TRIAL 
+
+ANS:  B. IBM.BIZ/TRY_COGNOS 
+
+2. Question 2
+In Cognos Analytics, which are the two main navigational areas of the interface? 
+
+A. Page links and icons 
+B. Drop-down menu and the right pane 
+C. Left pane and top bar 
+D. Menu links and Help pages 
+
+ANS: C. Left pane and top bar 
+
+3. Question 3
+What happens first when you use the Cognos Assistant to help create a dashboard?
+
+A. You can either ask a question directly or ask the Assistant to suggest some questions to ask.
+B. It suggests which visualizations to add to your dashboard.
+C. It automatically creates a dashboard.
+D. It resizes and rearranges your visualizations on a dashboard.
+
+ANS:  A. You can either ask a question directly or ask the Assistant to suggest some questions to ask.
+
+4. Question 4
+What are the two ways to create calculations in Cognos Analytics? (Select two answers) 
+
+A. Ask the Cognos Assistant.
+B. Search for calculations.
+C. Select operators and functions from the left pane.
+D. Start typing in the Expression box.
+
+ANS: C, D
+
+Graded Quiz 1:
+
+1. Question 1
+When signing up for a trial of Cognos Analytics, which item in the account form is the key one to take note of? 
+
+A. Your address 
+B. Your name 
+C. Your country /region 
+D. Your closest data center 
+
+ANS: D. Your closest data center 
+
+2. Question 2
+In Cognos Analytics what is the first step to build a dashboard?
+
+A. Select visualizations 
+B. Provide questions and answers to the assistant 
+C. Upload a spreadsheet or workbook 
+D. Choose a template 
+
+ANS: D. Choose a template 
+
+3. Question 3
+Which of the following methods can be used in Cognos Analytics to create visualizations? (Select all that apply)
+
+A. By manually populating by dragging and dropping.
+B. By using widgets.
+C. By automatic recommended visualizations.
+D. By using the Assistant to suggest questions and suggested visualizations.
+
+ANS: A, C, D
+
+4. Question 4
+How can you create infographics in Cognos Analytics?
+
+A. Ask the Assistant different questions.
+B. Drag and drop a widget shape icon onto a visualization.
+C. Modify navigation paths.
+D. Use Exclude to filter out some data.
+
+ANS:  B. Drag and drop a widget shape icon onto a visualization.
+
 
 
