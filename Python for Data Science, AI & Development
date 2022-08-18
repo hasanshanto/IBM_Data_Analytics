@@ -1,0 +1,27 @@
+Week 1:
+
+Practice Quiz 1:
+
+1. Question 1
+What is the type of the following: 0
+
+A. float
+B. Int
+
+ANS: B. Int
+
+2. Question 2
+What is the type of the following number: 3.12323
+
+A. Int
+B. Float
+
+ANS: B. Float
+
+3. Question 3
+What is the result of the following: int(3.99)
+
+A. 3.99
+B. 3
+
+ANS: B. 3
