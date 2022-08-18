@@ -46,3 +46,130 @@ A. 4.0
 B. 2.0
 
 ANS: B. 2.0
+
+Practice Quiz 3:
+
+1. Question 1
+What is the result of the following: Name[0]
+
+A. "M"
+B. "n"
+C. "i"
+
+ANS: A. "M"
+
+2. Question 2
+What is the result of the following: Name[-1]
+
+A. "M"
+B. "o"
+C. "n"
+
+ANS: C. "n"
+
+3. Question 3
+What is the output of the following: print("AB\nC\nDE")
+
+A. ABC
+DE
+B. AB
+C
+DE
+C. AB
+CD
+E
+
+ANS: B
+
+4. Question 4
+What is the result of following? 
+"hello Mike".find("Mike") 
+If you are unsure, copy and paste the code into Jupyter Notebook and check.
+
+A. 5
+B. 6,7,8
+C. 6
+
+ANS: C. 6
+
+Graded Quiz 1:
+
+1. Question 1
+What is the value of x after the following lines of code?
+
+x=1
+x=x+1
+
+A. 1
+B. 2
+C. 4
+
+ANS: B. 2
+
+2. Question 2
+What is the result of the following operation 1+3*2 ?
+
+A. 7
+B. 12
+C. 8
+
+ANS: A. 7
+
+3. Question 3
+What is the type of the following "7.1"
+
+A. float
+B. string
+
+ANS: B. string
+
+4. Question 4
+What is the result of the following code segment: int(False)
+
+A. 1
+B. 0
+C. error
+
+ANS: B. 0
+
+5. Question 5
+In Python, what is the result of the following operation: '1'+'2' ?
+
+A. 3
+B. '3'
+C. '12'
+
+ANS: C. '12'
+
+6. Question 6
+What is the result of the following: 'hello'.upper() ?
+
+A. 'HELLO' 
+B. 'Hello'
+C. 'hello'
+
+ANS: A. 'HELLO' 
+
+7. Question 7
+What is the result of the following : str(1+1) ?
+
+A. '2'
+B. '11'
+
+ANS:  A. '2' 
+
+8. Question 8
+What is the result of the following: "ABC".replace("AB", "ab") ?
+
+A. 'abC' 
+B. 'ABc'
+
+ANS: A. 'abC' 
+
+9. Question 9
+In Python 3, what is the type of the variable x after the following: x=1/1 ?
+
+A. float
+B. int
+
+ANS: A. float
