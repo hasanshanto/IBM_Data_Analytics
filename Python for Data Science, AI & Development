@@ -173,3 +173,76 @@ A. float
 B. int
 
 ANS: A. float
+
+Week 2:
+
+Practice Quiz 1:
+
+1. Question 1
+Consider the following tuple:
+say_what=('say',' what', 'you', 'will') 
+what is the result of the following say_what[-1]
+
+A. 'say'
+B. 'will'
+C. 'you'
+D. ' what'
+
+ANS: B. 'will'
+
+2. Question 2
+Consider the following tuple A=(1,2,3,4,5). What is the result of the following: A[1:4]:
+
+A. (2, 3, 4)
+B. (2, 3, 4,5)
+C. (3, 4,5)
+
+ANS: A. (2, 3, 4)
+
+3. Question 3
+Consider the following tuple A=(1,2,3,4,5), what is the result of the following: len(A)
+
+A. 5
+B. 6
+C. 4
+
+ANS: A. 5
+
+4. Question 4
+Consider the following list B=[1,2,[3,'a'],[4,'b']], what is the result of the following:B[3][1]
+
+A. [4,"b"]
+B. "b"
+C. "c"
+
+ANS: B. "b"
+
+5. Question 5
+What is the result of the following operation?
+
+[1,2,3]+[1,1,1]
+
+A. TypeError     
+B. [1, 2, 3, 1, 1, 1]
+C. [2,3,4]
+
+ANS: B. [1, 2, 3, 1, 1, 1]
+
+6. Question 6
+What is the length of the list A = [1] after the following operation: A.append([2,3,4,5])
+
+A. 5 
+B. 2
+C. 6
+
+ANS: B. 2
+
+7. Question 7
+What is the result of the following: "Hello
+Mike".split()
+
+A. ["Hello","Mike"]
+B. ["HelloMike"]
+C. ["H"]
+
+ANS: A. ["Hello","Mike"]
