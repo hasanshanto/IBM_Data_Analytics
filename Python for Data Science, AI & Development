@@ -397,3 +397,71 @@ A. True
 B. False
 
 ANS: A. True
+
+Week 3:
+
+Practice Quiz 1:
+
+1. Question 1
+what is the result of the following: 1=2
+
+A. False 
+B. True
+C. SyntaxError:can't assign to literal
+
+ANS: C. SyntaxError:can't assign to literal
+
+2. Question 2
+What is the output of the following code segment:
+
+i=6
+i<5
+
+A. True
+B. False
+C. SyntaxError: can't assign to literal
+
+ANS: B. False
+
+3. Question 3
+What is the result of the following: 5!=5
+
+A. False
+B. True
+
+ANS:  A. False
+
+4. Question 4
+What is the output of the following code segment: 'a'=='A'
+
+A. False
+B. True
+
+ANS: A. False
+
+5. Question 5
+in the video, if age=18 what would be the result 
+
+A. move on
+B. you can enter 
+
+ANS: A. move on
+
+6. Question 6
+in the video what would be the result if we set the variable age as follows: age= -10
+
+A. go see Meat Loaf
+move on
+B. you can enter
+move on
+
+ANS: A. go see Meat Loaf
+move on
+
+7. Question 7
+what is the result of the following:   True  or False 
+
+A. True, an or statement is only False if all the Boolean values are False
+B. False
+
+ANS: A
