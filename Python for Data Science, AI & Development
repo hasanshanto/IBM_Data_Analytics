@@ -269,3 +269,131 @@ B. (4, 4, 4)
 C. [3,3,3]
 
 ANS: B. (4, 4, 4)
+
+Practice Quiz 4:
+
+1. Question 1
+Consider the following set: {"A","A"}, what will the result be when the set is created? 
+
+A. {"A","A"}
+B. {"A"} 
+ 
+ANS:  B. {"A"} 
+
+2. Question 2
+What is the result of the following: type(set([1,2,3]))
+
+A. set
+B. list
+
+ANS: A. set 
+
+3. Question 3
+What method do you use to add an element to a set?
+
+A. add
+B. extend
+C. append
+
+ANS: A. add
+
+4. Question 4
+What is the result of the following operation : {'a','b'} &{'a'}
+
+A. {'a'}
+B. {'a','b'}
+
+ANS: B. {'a','b'}
+
+Graded Quiz 1:
+
+1. Question 1
+Consider the tuple A=((11,12),[21,22]), that contains a tuple and list. What is the result of the following operation A[1] ?
+
+A. ((11,12),[21,22])
+B. [21,22]
+C. (11,12)
+
+ANS: B. [21,22]
+
+2. Question 2
+Consider the tuple  A=((1),[2,3],[4]), that contains a tuple and list. What is the result of the following operation A[2][0]?
+
+A. 4
+B. [4]
+C. 1
+
+ANS:  A. 4
+
+3. Question 3
+True or false: after applying the following method, L.append(['a','b']), the following list will only be one element longer.
+
+A. True
+B. False
+
+ANS: A. True
+
+4. Question 4
+Consider the following list : A=["hard rock",10,1.2]
+What will list A contain after the following command is run: del(A[0]) ?
+
+A. [10,1.2]
+B. ["hard rock",10,1.2]
+C. [hard rock",10]
+
+ANS: A. [10,1.2]
+
+5. uestion 5
+What is the syntax to clone the list A and assign the result to list B ?
+
+A. B = A
+B. B = A[:]
+
+ANS: B. B = A[:]
+
+6. uestion 6
+What is the result of the following: len(("disco",10)) ?
+
+A. 2
+B. 6
+C. 5
+
+ANS: A. 2
+
+7. question 7
+Consider the following dictionary:
+{ "The Bodyguard":"1992", "Saturday Night Fever":"1977"}
+
+select  the values
+
+A. "1977"
+B. "1992"
+C. "The Bodyguard"
+D. "Saturday Night Fever"
+
+ANS: A, B
+
+8. uestion 8
+The variable  release_year_dict is a Python Dictionary, what is the result of applying the following method: release_year_dict.values() ?
+
+A. retrieve the keys of the dictionary
+B. retrieves, the values of the dictionary
+
+ANS: B. retrieves, the values of the dictionary
+
+9. uestion 9
+Consider the Set: V={'1','2'}, what is the result of V.add('3')?
+
+A. {'1','2','3'}
+B. {'1','2'}
+C. {1,2,3}
+
+ANS: A. {'1','2','3'}
+
+10. uestion 10
+What is the result of the following: 'A' in {'A','B'} ?
+
+A. True
+B. False
+
+ANS: A. True
