@@ -576,3 +576,25 @@ c1
 C. a1
 
 ANS: B
+
+Practice Quiz 3:
+
+1. Question 1
+Why do we use exception handlers?
+
+A. Catch errors within a program
+B. Write a file
+C. Read a file
+D. Terminate a program
+
+ANS: A. Catch errors within a program
+
+2. Question 2
+What is the purpose of a try…except statement?
+
+A. Catch and handle exceptions when an error occurs
+B. Executes the code block only if a certain condition exists
+C. Crash a program when errors occur
+D. Only executes if one condition is true
+
+ANS: A. Catch and handle exceptions when an error occurs
