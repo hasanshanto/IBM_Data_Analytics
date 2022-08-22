@@ -853,3 +853,67 @@ C. File1.close()
 D. File1.write()
 
 ANS: D. File1.write()
+
+Practice Quiz 2:
+
+1. Question 1
+What python object do you cast to a dataframe?
+
+A. set
+B. tuple 
+C. dictionary
+
+ANS: C. dictionary
+
+2. Question 2
+How would you access the first-row and first column in the dataframe df?
+
+A. df.ix[0,0]
+B. df.ix[0,1]
+C. df.ix[1,0]
+
+ANS: A. df.ix[0,0]
+
+3. Question 3
+What is the proper way to load a CSV file using pandas?
+
+A. pandas.from_csv(‘data.csv’)
+B. pandas.load_csv(‘data.csv’)
+C. pandas.read_csv(‘data.csv’)
+D. pandas.import_csv(‘data.csv’)
+
+ANS: C. pandas.read_csv(‘data.csv’)
+
+4. Question 4
+Use this dataframe to answer the question.
+How would you select the Genre disco? Select all that apply.
+
+A. df.iloc[6, ‘genre’]
+B. df.loc[6, 5]
+C. df.iloc[6, 4]
+D. df.loc[‘Bee Gees’, ‘Genre’]
+
+ANS: C
+
+5. Question 5
+Use this dataframe to answer the question.
+Which will NOT evaluate to 20.6? Select all that apply.
+
+A. df.iloc[4,5]
+B. df.iloc[6,5]
+C. df.loc[4,’Music Recording Sales’]
+D. df.iloc[6, ‘Music Recording Sales (millions)’]
+
+ANS: C
+
+6. Question 6
+Use this dataframe to answer the question.
+How do we select Albums The Dark Side of the Moon to Their Greatest Hits
+(1971-1975)? Select all that apply.
+
+A. df.iloc[2:5, ‘Album’]
+B. df.loc[2:5, ‘Album’]
+C. df.iloc[2:6, 1]
+D. df.loc[2:5, 1]
+
+ANS: B. D
