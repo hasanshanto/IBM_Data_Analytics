@@ -809,3 +809,47 @@ C. To skip over certain blocks of code during execution
 D. It is not necessary to label errors
 
 ANS: B
+
+Week 4:
+
+Practice Quiz 1:
+
+1. Question 1
+What are the most common modes used when opening a file?
+
+A. (a)ppend, (r)edline, (w)rite
+B. (s)ave, (r)ead, (w)rite
+C. (a)ppend, (c)lose, (w)rite
+D. (a)ppend, (r)ead, (w)rite
+
+ANS: D
+
+2. Question 2
+What is the data attribute that will return the title of the file?
+
+A. File1.mode
+B. File1.name
+C. File1.close()
+D. File1.open()
+
+ANS: B. File1.name
+
+3. Question 3
+What is the command that tells Python to begin a new line?
+
+A. \b
+B. \n
+C. \q
+D. \e
+
+ANS: B. \n
+
+4. Question 4
+What attribute is used to input data into a file?
+
+A. File1.open()
+B. File1.read()
+C. File1.close()
+D. File1.write()
+
+ANS: D. File1.write()
