@@ -917,3 +917,45 @@ C. df.iloc[2:6, 1]
 D. df.loc[2:5, 1]
 
 ANS: B. D
+
+Practice Quiz 3:
+
+1. Question 1
+What is the Python library used for scientific computing and is a basis for Pandas?
+
+A. Numpy
+B. Tkinter
+C. datetime
+D. Requests
+
+ANS: A. Numpy
+
+2. Question 2
+What attribute is used to retrieve the number of elements in an array?
+
+A. a.size
+B. a.ndim
+C. a.shape
+D. a.dtype
+
+ANS:  A. a.size
+
+3. Question 3
+How would you change the first element to "10" in this array c:array([100,1,2,3,0])?
+
+A. c[2]=10
+B. c[4]=10
+C. c[1]=10
+D. c[0]=10
+
+ANS:  D. c[0]=10
+
+4. Question 4
+What attribute is used to return the number of dimensions in an array?
+
+A. a.ndim
+B. a.shape
+C. a.size
+D. a.dtype
+
+ANS: A. a.ndim
