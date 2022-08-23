@@ -959,3 +959,132 @@ C. a.size
 D. a.dtype
 
 ANS: A. a.ndim
+
+Graded Quiz 1:
+
+1. Question 1
+What is the result of the following lines of code?
+
+a=np.array([0,1])
+b=np.array([1,0])
+np.dot(a,b) 
+
+A. 0
+B. 1
+C. array([1,1])
+
+ANS: A. 0
+
+2. Question 2
+How do you perform matrix multiplication on the numpy arrays  A and  B ?
+
+A. A+B
+B. np.dot(A,B)
+C. A*B
+
+ANS: B. np.dot(A,B)
+
+3. Question 3
+What values does the variable  out take if the following lines of code are run?
+
+X=np.array([[1,0,1],[2,2,2]]) 
+out=X[0:2,2]
+out
+
+A. array([1,0])
+B. array([1,2])
+C. array([1,1])
+
+ANS: B. array([1,2])
+
+4. Question 4
+What is the value of  Z after the following code is run?
+
+X=np.array([[1,0],[0,1]])
+Y=np.array([[2,2],[2,2]])
+Z=np.dot(X,Y)
+
+A. array([[2,2],[2,2]])
+B. array([[2,0],[0,2] ])
+C. array([[3,2],[2,3]])
+
+ANS: A. array([[2,2],[2,2]])
+
+5. Question 5
+Consider the following text file:  Example1.txt:
+
+This is line 1
+This is line 2
+This is line 3
+
+What is the output of the following lines of code?
+
+with open("Example1.txt","r") as file1:  
+    FileContent=file1.read()
+    print(FileContent)
+
+A. This is line 1
+This is line 2
+This is line 3
+
+B. This is line 1
+C. This
+
+ANS: A
+
+6. Question 6
+What do the following lines of code do?
+
+with open("Example1.txt","r") as file1:  
+  FileContent=file1.readlines()
+  print(FileContent)
+
+A. Read the file "Example1.txt"
+B. Write to the file “Example1.txt”
+C. Append the file "Example1.txt"
+
+ANS: A
+
+7. Question 7
+What do the following lines of code do?
+
+with open("Example.txt","w") as writefile:
+   writefile.write("This is line A\n")
+  writefile.write("This is line B\n")
+
+A. Read the file "Example.txt"
+B. Write to the file “Example.txt”
+C. Append the file "Example.txt"
+
+ANS: B
+
+8. Question 8
+What task do the following lines of code perform?
+
+with open('Example2.txt','r') as readfile:
+    with open('Example3.txt','w') as writefile:
+          for line in readfile:
+                writefile.write(line)
+
+A. Copy the text from Example2.txt to Example3.txt.
+B. Print out the content of Example2.txt.
+C. Check the mode of the open function for each file object.
+
+ANS: A
+
+9. Question 9
+Consider the dataframe df. How would you access the element in the 2nd row and 1st column?
+
+A. df.iloc[1,0]
+B. df.iloc[2,1]
+C. df.iloc[0,1]
+
+ANS: A
+
+10. Question 10
+What method gets the unique elements of the following: df['Length'] ?
+
+A. unique
+B. head
+
+ANS: A. unique
