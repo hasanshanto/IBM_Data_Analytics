@@ -1,0 +1,272 @@
+1. Question 1
+In Python what statement would print out the first two elements “Li” of “Lizz”?
+
+A. print(name[1:2])
+B. print(name[2:0])
+C. print(name[0:2])
+
+ANS: C. print(name[0:2])
+
+2. Question 2
+In Python, if you executed var = '01234567', what would be the result of print(var[::2])?
+
+A. 1234567
+B. 0246 
+C. 1357
+
+ANS: B. 0246 
+
+3. Question 3
+What is the Python find() method used for?
+
+A. The method finds every second index of a substring
+B. The method finds the starting index of a substring
+C. The method finds the ending index of a substring
+
+ANS: B. The method finds the starting index of a substring
+
+4. Question 4
+In Python what data type is used to represent text and not numbers?
+
+A. int
+B. float
+C. str
+
+ANS: C. str
+
+5. Question 5
+What is the result of the following code segment: float(3)?
+
+A. 3.0
+B. 3.5
+C. 3
+
+ANS: A. 3.0
+
+6. Question 6
+What following code segment would produce an output of “0”?
+
+A. 1/2
+B. 1//2
+
+ANS: B. 1//2
+
+7. Question 7
+In Python 3 what does regular division always result in?
+
+A. Int
+B. Float
+
+ANS: B. Float
+
+8. Question 8
+Dictionary items can be:
+
+A. Stored in duplicate keys
+B. Only one data type
+C. Numerous data types
+
+ANS:  C. Numerous data types
+
+9. Question 9
+What will this code segment “A[0]” obtain from a list or tuple?
+
+A. The third element of a list or tuple
+B. The second element of a list or tuple
+C. The first element of a list or tuple
+
+ANS: C. The first element of a list or tuple
+
+10. Question 10
+What does the split() method return from a list of words?
+
+A. The list of words in reverse order
+B. The list of words in a string separated by a delimiter
+C. The list of words separated by a colon
+D. The list in one long string
+
+ANS: B. The list of words in a string separated by a delimiter
+
+11. Question 11
+Lists are:
+
+A. Not mutable
+B. Not indexed
+C. Mutable
+D. Unordered
+
+ANS: C. Mutable
+
+12. Question 12
+How do you cast the list A to the set a?
+
+A. a.set()
+B. a=set(A)
+C. a=A.dict()
+
+ANS: B. a=set(A)
+
+
+13. Question 13
+If x=1 what will produce the below output?
+
+Hi
+Mike
+
+A. if(x!=1): 
+print('Hello') 
+ else: 
+    print('Hi') 
+ print('Mike') 
+
+B. if(x!=1): 
+print('Hi') 
+ else: 
+    print('Hello') 
+ print('Mike') 
+
+C. if(x==1): 
+print('Hello') 
+ else: 
+    print('Hi') 
+ print('Mike') 
+ 
+ANS: A
+
+14. Question 14
+Why is the “finally” statement used?
+
+A. Only execute the remaining code if an error occurs
+B. Only execute the remaining code if no errors occur
+C. Execute the remaining code no matter the end result
+D. Only execute the remaining code if one condition is false
+
+ANS: C. Execute the remaining code no matter the end result
+
+15. Question 15
+What add function would return ‘4’ ?
+
+A. def add(x): return(x+x) add('4') 
+B. def add(x): return(x+x+x) add('1') 
+C. def add(x): return(x+x) add(2) 
+
+ANS: C. def add(x): return(x+x) add(2) 
+
+16. Question 16
+A list cannot be sorted if it contains:
+
+A. strings and numeric values
+B. only strings
+C. concatenated strings
+D. only numeric values
+
+ANS: A. strings and numeric values
+
+17. Question 17
+What segment of code would output the following?
+
+3
+6
+9
+
+A. A=[1,2,3] for a in A: print(2*a) 
+B. A=[1,2,3] for a in A: print(3*a) 
+C. A=['1','2','3'] for a in A: print(2*a) 
+
+ANS:  B. A=[1,2,3] for a in A: print(3*a) 
+
+18. Question 18
+What code segment would output the following?
+
+2
+3
+4
+
+A. for i in range(1,5): if (i==2): print(i)
+B. for i in range(1,5): if (i!=1): print(i)
+C. for i in range(1,5): if (i!=2): print(i)
+
+ANS: B. for i in range(1,5): if (i!=1): print(i)
+
+19. Question 19
+What is the width of the rectangle in the class Rectangle?
+
+class Rectangle(object):
+    def __init__(self,width=2,height =3,color='r'):
+      self.height=height
+      self.width=width
+      self.color=color 
+    
+    def drawRectangle(self):
+    import matplotlib.pyplot as plt
+    plt.gca().add_patch(plt.Rectangle((0, 0),self.width, self.height ,fc=self.color))
+    plt.axis('scaled')
+    plt.show() 
+
+A. 2
+B. 0
+C. 3
+
+ANS: A. 2
+
+20. Question 20
+What is the result of the following lines of code?
+
+ a=np.array([0,1,0,1,0]) 
+ b=np.array([1,0,1,0,1]) a/b 
+
+A. array([0.1, 1.0, 0.1, 1.0, 0.1])
+B. Division by zero error
+C. array([1, 1, 1, 1, 1])
+
+ANS: B. Division by zero error
+
+21. Question 21
+What is the result of the following lines of code?
+
+ a=np.array([10,9,8,7,6])
+ a+1
+
+A. array([101,91,81,71,61])
+B. array([11,10,9,8,7])
+C. array([9, 8, 7, 6, 5])
+
+ANS: B. array([11,10,9,8,7])
+
+22. Question 22
+What does the following line of code select along with the headers ‘Artist’, ‘Length’ and ‘Genre’ from the dataframe df?
+
+y=df[['Artist','Length','Genre']]
+
+A. Columns
+B. Rows
+C. The entire dataframe
+
+ANS: A. Columns
+
+23. Question 23
+What is the method readline() used for?
+
+A. It reads the entire file all at once
+B. It reads 10 lines of a file at a time
+C. It helps to read one complete line from a given text file
+
+ANS: C. It helps to read one complete line from a given text file
+
+24. Question 24
+What mode will write text at the end of the existing text in a file?
+
+A. Write “w”
+B. Read “r”
+C. Append “a”
+
+ANS: C. Append “a”
+
+25. Question 25
+What does URL stand for?
+
+A. Uniform Reset Locator
+B. Uniform Resource Locator
+C. Uniform Resource Location
+
+ANS: B. Uniform Resource Locator
