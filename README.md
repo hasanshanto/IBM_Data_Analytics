@@ -23,3 +23,11 @@ Key Takeway from this course: In this course I learned how to create a dynmaic d
 Certificate link: https://coursera.org/share/0658c1edbbd4763f99c8e8f174965611
 Badge link: https://www.credly.com/badges/6a12a2e5-07d0-4f02-aa11-427fc3138f6d/public_url
 
+Course 4: Python for Data Science, AI & Development
+Status: Completed
+
+Key Takeway from this course: Although I had intermediate skills using python as I am using python for several years, solved problems, learned machine learning advanced libraries using Python this course is a wrap up and review of Python. I learned all the essential skills like lists, loop, function, OOP and data science library like Pandas and Numpy. Besides I learned how to read, wrrite, append a file in csv, json, xmlsx formats. Also, I learned how to do webscraping, using API and REST APIs etc. 
+
+Certificate link: https://coursera.org/share/c5667507493336af1f813ae9f6a1b235
+Badge link: https://www.credly.com/badges/e007403e-4422-4232-bdd6-66c59a1f4654/public_url
+
