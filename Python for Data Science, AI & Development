@@ -1122,3 +1122,87 @@ C. Open (Min), High (First), Low (Max), Close (Last)
 D. Open (First), High (Max), Low (Min), Close (Last)
 
 ANS: D
+
+Practice Quiz 2:
+
+1. Question 1
+What is the function of "GET" in HTTP requests?
+
+A. Returns the response from the client to the requestor
+B. Carries the request to the client from the requestor
+C. Sends data to create or update a resource 
+D. Deletes a specific resource
+
+ANS: B. Carries the request to the client from the requestor
+
+2. Question 2
+What does URL stand for?
+
+A. Uniform Request Location
+B. Uniform Resource Locator
+C. Unilateral Resistance Locator
+D. Uniform Resource Learning
+
+ANS: B. Uniform Resource Locator
+
+3. Question 3
+What does the file extension “csv” stand for?
+
+A. Comma Separated Values
+B. Comma Separation Valuations 
+C. Common Separated Variables
+D. Comma Serrated Values 
+
+ANS: A. Comma Separated Values
+
+4. Question 4
+What is webscraping?
+
+A. The process to display all data within a URL
+B. The process to extract data from a particular website
+C. The process to describe communication options
+D. The process to request and retrieve information from a client
+
+ANS: B. The process to extract data from a particular website
+
+Graded Quiz 2:
+
+1. Question 1
+What are the 3 parts to a response message?
+
+A. HTTP headers, blank line, and body
+B. Start or status line, header, and body
+C. Bookmarks, history, and security
+D. Encoding, body, and cache
+
+ANS: B. Start or status line, header, and body
+
+2. Question 2
+What is the purpose of this line of code "table_row=table.find_all(name=’tr’)" used in webscraping?
+
+A. It will find all of the data within the table marked with a tag “a”
+B. It will find all of the data within the table marked with a tag “p”
+C. It will find all of the data within the table marked with a tag “tr”
+D. It will find all of the data within the table marked with a tag “h1”
+
+ANS: C
+
+3. Question 3
+In what data structure do HTTP responses generally return?
+
+A. Lists
+B. Nested Lists
+C. Tuples
+D. JSON
+
+ANS: D. JSON
+
+4. Question 4
+The Python library we used to plot the chart in the lab is
+
+A. MatPlotLib
+B. Plotly
+C. PyCoinGecko
+D. Pandas
+
+ANS: A. MatPlotLib
