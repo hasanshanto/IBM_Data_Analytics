@@ -1,0 +1,98 @@
+Week 1
+Pracitce Quiz 1
+
+1. Question 1
+Which of the following statements are correct about databases?
+
+A. A database is a repository of data
+B. There are different types of databases - Relational, Hierarchical, No SQL, etc.
+C. A database can be populated with data and be queried 
+D. All of the above
+
+ANS: D
+
+2. Question 2
+True or False: A SELECT statement is used to retrieve data from a table.
+
+A. True
+B. False
+
+ANS: A
+
+3. Question 3
+You are working on a Film database, with a FilmLocations table. You want to retrieve a list of films that were released in 2019.You run the following query but find that all the films in the FilmLocations table are listed. 
+SELECT Title,ReleaseYear, Locations FROMFilmLocations;
+What is missing?
+
+A. A WHERE clause to limit the results to films released in 2019.
+B. Nothing, the query is correct.
+C. A LIMIT clause to limit the results to films released in 2019.
+D. A DINSTINCT clause to specify a distinct year.
+
+ANS: A
+
+4. Question 4
+Which of the following statements would you use to add a new instructor to the Instructor table.
+
+A. INSERT INTO Instructor(ins_id, lastname, firstname, city, country)
+VALUES(4, 'Doe', 'John', 'Sydney', 'AU');
+B. ADD INTO Instructor(ins_id, lastname, firstname, city, country)
+VALUES(4, 'Doe', 'John', 'Sydney', 'AU');
+C. SELECT Instructor(ins_id, lastname, firstname, city, country)
+FROM VALUES(4, 'Doe', 'John', 'Sydney', 'AU');
+D. UPDATE Instructor(ins_id, lastname, firstname, city, country)
+WITH VALUES(4, 'Doe', 'John', 'Sydney', 'AU');
+
+ANS: A
+
+5. Question 5
+What is the function of a WHERE clause in an UPDATE statement?
+
+A. A WHERE clause enables you to specify which rows will be updated.
+B. A WHERE clause enables you to specify a new table to receive the updates.
+C. A WHERE clause is never used with an UPDATE statement.
+D. A WHERE clause enables you to list the column and data to be updated. 
+
+ANS: A
+
+Graded Quiz 1:
+
+1. Question 1
+True or False: The INSERT statement can be used to insert multiple rows in a single statement. 
+
+A. True
+B. False
+
+ANS: A
+
+2. Question 2
+Assume there exists an INSTRUCTOR table with several columns including FIRSTNAME, LASTNAME, etc. Which of the following is the most likely result set for the following query:
+SELECT DISTINCT(FIRSTNAME) FROM INSTRUCTOR
+
+A. LEON
+LEON
+PAUL
+PAUL
+B. LEON
+PAUL
+JOE
+C. LEON
+PAUL
+LEON
+JOE
+D. LEON KATSNELSON
+PAUL ZIKOPOLOUS
+JOE SANTARCANGELO
+
+ANS: B
+
+3. Question 3
+What does the following SQL statement do?
+UPDATE INSTRUCTOR SET LASTNAME = 'Brewster' WHERE LASTNAME = 'Smith'
+
+A. Changes all rows for the instructor with a last name of Smith to have a last name of Brewster.
+B. Change the row for the instructor with a last name of Brewster to have a last name of Smith.
+C. Change all rows in the table to have a last name of Smith.
+D. Change all rows in the table to have a last name of Brewster.
+
+ANS: A
