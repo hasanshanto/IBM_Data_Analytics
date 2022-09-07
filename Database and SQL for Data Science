@@ -96,3 +96,83 @@ C. Change all rows in the table to have a last name of Smith.
 D. Change all rows in the table to have a last name of Brewster.
 
 ANS: A
+
+
+Week 2:
+Practice Quiz 1:
+
+1. Question 1
+What is the function of a primary key?
+
+A. The primary key is used to grant access to a table.
+B. The primary key enables you to add data to columns.
+C. The primary key is used to identify any rows in the table that contain NULL values.
+D. The primary key uniquely identifies each row in a table.
+
+ANS: D
+
+2. Question 2
+True or False: Data Manipulation Language statements like INSERT, SELECT, UPDATE, and DELETE are used to read and modify data.
+
+A. True
+B. False
+
+ANS: A
+
+3. Question 3
+Data Definition Language (or DDL) statements are used to define, change, or delete database objects such as tables. Which of the following statements are all DDL statements? 
+
+A. INSERT and UPDATE
+B. SELECT and DELETE
+C. CREATE, ALTER, DROP
+D. SELECT, INSERT, UPDATE
+
+ANS: C. CREATE, ALTER, DROP
+
+4. Question 4
+Which of the following queries will change the data type of an existing column (phone) to the varchar data type?
+
+A. ALTER COLUMN phone SET DATA TYPE VARCHAR(20);
+B. ALTER TABLE author ALTER COLUMN phone SET DATA TYPE VARCHAR(20);
+C. ALTER TABLE author ALTER COLUMN phone SET TYPE VARCHAR(20);
+D. ALTER TABLE author ALTER COLUMN phone DATA TYPE = VARCHAR(20);
+
+ANS: B
+
+5. Question 5
+The five basic SQL commands are:
+
+A. None of the above
+B. CREATE, SELECT, INSERT, UPDATE, DELETE
+C. CREATE, INSERT, RETRIEVE, MODIFY, DELETE
+D. SELECT, COPY, PASTE, INSERT, ALTER
+
+ANS: B
+
+Graded Quiz 1:
+
+1. Question 1
+Which of the following statements about a database is/are correct?
+
+A. A database is a logically coherent collection of data with some inherent meaning
+B. Data can only be added and queried from a database, but not modified.
+C. Only SQL can be used to query data in a database.
+D. All of the above
+
+ANS: A
+
+2. Question 2
+Attributes of an entity become ________ in a table.
+
+A. rows
+B. columns
+C. constraints
+D. keys
+
+3. Question 3
+The CREATE TABLE statement is a....
+A. DML statement
+B. DDL statement
+C. Both of the above
+
+ANS: B
