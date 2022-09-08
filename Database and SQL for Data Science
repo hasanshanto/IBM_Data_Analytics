@@ -176,3 +176,90 @@ B. DDL statement
 C. Both of the above
 
 ANS: B
+
+Week 3
+Practice Quiz 1:
+
+1. Question 1
+You want to retrieve a list of employees in alphabetical order of Lastname from the Employees table. Which SQL statement should you use?
+
+A. SELECT * FROM Employees GROUP BY Lastname;
+B. SELECT * FROM Employees SORT BY Lastname;
+C. SELECT * FROM Employees ORDER BY Lastname DESC;
+D. SELECT * FROM Employees ORDER BY Lastname;
+
+ANS: D. SELECT * FROM Employees ORDER BY Lastname;
+
+2. Question 2
+Which keyword is used to set a condition for a GROUP BY clause?
+
+A. WHERE
+B. SELECT
+C. HAVING
+D. ORDER BY
+
+ANS: C. HAVING
+
+3. Question 3
+You want to retrieve a list of authors from Australia, Canada, and India from the table Authors. Which SQL statement is correct?
+
+A. SELECT * FROM Author WHERE Country LIST ('CA', 'IN');
+B. SELECT * FROM Author IF Country (‘Australia’, 'Canada', 'India');
+C. SELECT * FROM Author WHERE Country BETWEEN(‘Australia’, ‘Canada’, ‘India’);
+D. SELECT * FROM Author WHERE Country IN (‘Australia’, 'Canada', 'India');
+
+ANS: D
+
+4. Question 4
+You want to retrieve a list of books priced above $10 and below $25 from the table Book. What are the two ways you can specify the range?
+
+A. SELECT Title, Price FROM Book WHERE Price IN (10, 25);
+B. SELECT Title, Price FROM Book WHERE Price >= 10 and Price <= 25;
+C. SELECT Title, Price FROM Book WHERE Price 10 to 25;
+D. SELECT Title, Price FROM Book WHERE Price BETWEEN 10 and 25;
+
+ANS: B, D
+
+5. Question 5
+You want to retrieve Salary information for an employee called Ed from the Employee table. You write the following statement: 
+SELECT Firstname, Lastname, Salary FROM Employees
+
+You see all the employees listed, and it’s hard to find Ed’s information. Which clause should you add to reduce the number of rows returned?
+
+A. GROUP BY Firstname = ‘Ed’;
+B. WHERE Firstname = ‘Ed’;
+C. WHERE Employees = ‘Ed’;
+D. ORDER BY Firstname;
+
+ANS: C
+
+Graded Quiz 1:
+
+1. Question 1
+You want to select author's last name from a table, but you only remember the author’s last name starts with the letter B, which string pattern can you use? 
+
+A. SELECT lastname from author where lastname like ‘B#’ 
+B. SELECT lastname from author where lastname like ‘B%’ 
+C. SELECT lastname from author where lastname like ‘B$’ 
+D. None of the above 
+
+ANS: B
+
+2. Question 2
+In a SELECT statement, which SQL clause controls how the result set is displayed? 
+
+A. ORDER BY clause 
+B. ORDER IN clause 
+C. ORDER WITH clause 
+
+ANS: A
+
+3. Question 3
+Which of the following can be used in a SELECT statement to restrict a result set? 
+
+A. HAVING 
+B. WHERE
+C. DISTINCT 
+D. All of the above 
+
+ANS: D
