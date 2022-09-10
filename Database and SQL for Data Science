@@ -350,3 +350,54 @@ C. SELECT SUM(Total_Cost) From PetRescue
 D. SELECT Total_Cost FROM PetRescue
 
 ANS: B
+
+Week 4
+Practice Quiz 1:
+
+1. Question 1
+Which API do you use to connect to a database from Python?
+
+A. REST API
+B. DB API such as ibm_db API
+C. Census API
+D. Watson API
+
+ANS: B
+
+2. Question 2
+In the ibm_db API, what is the commit() method used for?
+
+A. The commit() method is used to open a database for connection.
+B. The commit() method is used to close a database connection.
+C. The commit() method is used to commit any pending transaction to the database.
+D. The commit() method is used to reverse any transactions that fail.
+
+ANS: C
+
+3. Question 3
+True or false: Resources used by the ibm_db API are released automatically when the program ends. There is no need to specifically close the connection.
+
+A. False
+B. True
+
+ANS: A
+
+4. Question 4
+To create a table from Python, you would use...
+
+A. An ibm_db.exec_immediate function that includes connection information and a SQL statement to create the table.
+B. An ibm_db.exec_immediate function that includes a SQL statement to create the table.
+C. You cannot create a table from Python.
+D. An ibm_db.exec_immediate function that includes connection information.
+
+ANS: A
+
+5. Question 5
+Which of the following is a correct example of the connect function?
+
+A. connect('database port', 'username', 'password')
+B. connect('database name', 'username', 'password')
+C. connect('database name', 'username', 'database type')
+D. connect('username', 'password')
+
+ANS: B
