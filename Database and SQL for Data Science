@@ -401,3 +401,109 @@ C. connect('database name', 'username', 'database type')
 D. connect('username', 'password')
 
 ANS: B
+
+
+Week 4
+Final Exam
+
+1. Question 1
+The SELECT statement is called a query, and the output we get from executing the query is called what?
+
+A. A results set
+B. The table
+C. The database
+D. The index
+
+ANS: A
+
+2. Question 2
+Which of the following SQL statements will delete the authors with IDs of A10 and A11?
+
+A. DELETE ('A10', 'A11') FROM AUTHOR 
+B. DELETE FROM AUTHOR WHERE AUTHOR_ID IN ('A10', 'A11')
+C. D: DELETE AUTHOR_ID IS ('A10', 'A11') FROM AUTHOR 
+D. DELETE FROM AUTHOR WHERE AUTHOR_ID IS ('A10', 'A11')
+
+ANS: B
+
+3. Question 3
+The primary key of a relational table uniquely identifies each _______ in a table.
+
+A. row
+B. relation
+C. column
+D. attribute
+
+ANS: A
+
+4. Question 4
+The basic categories of the SQL language based on functionality are Data Definition Language (DDL) and _________.
+
+A. Data Input Language (DIL)
+B. Data Manipulation Language (DML)
+C. Data Update Language (DUL)
+D. Data Entry Language (DEL)
+
+ANS: B
+
+5. Question 5
+When querying a table called Representative that contains a list of representatives and the state that they represent, which of the following queries will return the number of representatives from each state?
+
+A. SELECT State, count(State) FROM Representative 
+B. SELECT distinct(State) FROM Representative 
+C. SELECT State, count(State) FROM Representative GROUP BY State
+D. SELECT State, distinct(State) FROM Representative GROUP BY State
+
+ANS: C
+
+6. Question 6
+You want to retrieve a list of books that have between 450 and 600 pages. Which clause would you add to the following SQL statement: 
+SELECT Title, Pages FROM Book ________________________________
+
+A. WHERE Pages 450 – 600
+B. IF Pages >= 450 and Pages <= 600
+C. WHERE Pages >= 450 and pages <= 600
+D. WHERE Pages = 450
+
+ANS: C
+
+7. Question 7
+Which of the following queries will retrieve the LOWEST value of PRICE in a table called PRODUCTS?
+
+A. SELECT MAX(PRICE) FROM PRODUCTS
+B. SELECT LEAST(PRICE) FROM PRODUCTS
+C. SELECT LOWEST(PRICE) FROM PRODUCTS
+D. SELECT MIN(PRICE) FROM PRODUCTS
+
+ANS: D
+
+8. Question 8
+Which of the following queries will retrieve the PRODUCT NAME that has the LOWEST price?
+
+A. SELECT PRODUCT_NAME FROM PRODUCTS WHERE UNIT_PRICE = MIN
+B. SELECT PRODUCT_NAME FROM PRODUCTS WHERE UNIT_PRICE IS LOWEST
+C. SELECT MIN(UNIT_PRICE) FROM PRODUCTS
+D. SELECT PRODUCT_NAME FROM PRODUCTS WHERE UNIT_PRICE = (SELECT MIN(UNIT_PRICE) FROM PRODUCTS)
+
+ANS: D
+
+9. Question 9
+A ____________ is a control structure that enables traversal over the records in a database.
+
+A. Import
+B. Primary key
+C. Connection
+D. Database cursor
+
+ANS: D
+
+10. Question 10
+To query data from tables in database a connection to the database needs to be established. Which of the following is NOT required to establish a connection with a relational database from a Python notebook?
+
+A. Table name
+B. Database Name
+C. Hostname or IP address
+D. Username and Password
+
+ANS: A
+
