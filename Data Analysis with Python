@@ -1,0 +1,49 @@
+1. Question 1
+What does csv stand for?
+
+A. Comma Separated Values
+B. Car Sold values
+C. none of the above
+
+ANS: A
+
+2. Question 2
+What library is primarily used for machine learning
+
+A. scikit-learn
+B. Python 
+C. matplotlib
+
+ANS: A
+
+3 Question 3
+We have the list headers_list:
+headers_list=['A','B','C']
+We also have the dataframe df that contains three columns, what is the correct syntax to replace the headers of the dataframe df with values in the list headers_list?
+
+A. df.columns =  headers_list
+B. df.head()
+C. df.tail()
+
+ANS: A
+
+4 Question 4
+Consider the segment of the following dataframe:
+
+What is the type of the column make?
+
+A. int64
+B. float64
+C. object
+
+ANS: C
+
+5.Question 5
+How would you generate descriptive statistics for all the columns for the dataframe df?
+
+A. df.describe()
+B. df.describe(include = "all")
+
+ANS: B
+
+
